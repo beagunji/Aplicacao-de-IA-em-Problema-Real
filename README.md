@@ -1,8 +1,13 @@
-# Aplicacao-de-IA-em-Problema-Real
 
-#### Projeto da Disciplina
+# Aplicacao de Inteligência Artificial em Problema Real
+
+## Projeto da Disciplina
+
+#### Prof. Dr. Leandro Zerbinatti
 
 #### Inteligência Artificial – 7ºJ SI - Noite
+
+#### Instruções: 
 
 Considerando os assuntos que serão abordados na disciplina de Inteligência Artificial, refletir sobre uma proposta de tema de projeto a ser trabalhado dentro deste semestre. Caso o seu Trabalho de Conclusão de Curso (TCC) esteja aderente ao conteúdo da disciplina, pode ser aproveitado como projeto. Por isso, este projeto pode ser realizado em grupo de, no máximo, a quantidade de alunos que estão fazendo TCC.
 
