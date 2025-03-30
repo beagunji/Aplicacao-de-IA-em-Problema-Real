@@ -15,7 +15,7 @@ Integrantes:
 
 <br>
 
-# Título:
+# Implementação de Machine Learning e Deep Learning sobre o gerenciamento de vendas de chocolates
 
 
 ## Resumo
