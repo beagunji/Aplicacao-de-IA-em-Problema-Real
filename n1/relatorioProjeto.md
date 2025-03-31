@@ -20,6 +20,8 @@ Integrantes:
 
 ## Resumo
 
+O mercado de chocolates está em crescimento, impulsionado pelo aumento da renda, mudanças no consumo e investimentos comerciais. No Brasil, marcas como Cacau Show e Brasil Cacau expandiram significativamente suas operações. No entanto, desafios como previsão de demanda e gestão de estoques exigem soluções eficazes. A Inteligência Artificial (IA) se destaca como uma ferramenta importante estratégico para o negócio ao possibilitar análises preditivas de vendas e identificação de padrões de consumo, otimizando a gestão organizacional. O projeto propõe um framework baseado em Machine Learning e Deep Learning para prever demandas e tendências do mercado de chocolates, auxiliando na tomada de decisões. Os dados analisados incluem informações sobre vendedores, produtos, preços e quantidades vendidas, coletados de transações verificadas. A aplicação da IA permitirá às empresas a otimizar estoques, aprimorar estratégias de venda e compreender melhor os consumidores, garantindo maior eficiência operacional e vantagem competitiva. A metodologia começa com a análise exploratória dos dados, identificando os padrões e variáveis relevantes. Em seguida, realiza-se a preparação dos dados e serão desenvolvidos modelos para avaliar as métricas, assegurando confiabilidade. Espera-se obter um sistema preditivo capaz de auxiliar a gestão organizacional, prevendo demandas, otimizando operações, melhorando núcleo de vendas e fortalecendo a cultura organizacional orientada por dados, logo, promovendo uma maior eficiência e competitividade no mercado de chocolates.
+<br>
 
 ## Introdução e Descrição do Problema
 
@@ -253,6 +255,26 @@ O dataset resultante "chocolate_sales_prepared.csv" está enriquecido com featur
 
 
 ## Metodologia e Resultados Esperados
+
+A metodologia adotada neste projeto segue um framework baseado em técnicas de Inteligência Artificial, com foco em aprendizado de máquina (Machine Learning) e aprendizado profundo (Deep Learning), aplicados à previsão de vendas no setor de chocolates. O objetivo é construir modelos capazes de reconhecer padrões em dados históricos de transações comerciais, auxiliando na tomada de decisões mais eficientes e fundamentadas. 
+
+O processo inicia-se com uma análise exploratória dos dados disponíveis, visando compreender a estrutura e a distribuição das variáveis, identificar tendências sazonais, variações regionais de consumo e possíveis correlações entre variáveis como país, tipo de produto, quantidade vendida e valor arrecadado. Essa etapa segue princípios apresentados por Russell e Norvig (2022), ao destacar a importância da observação e da análise criteriosa como base para o desenvolvimento de sistemas inteligentes. 
+
+Na fase de preparação dos dados, são realizadas tarefas fundamentais como tratamento de valores ausentes, conversão de formatos de data, categorização de variáveis e normalização de colunas numéricas. Também são criadas variáveis derivadas com o intuito de enriquecer a base de informação e melhorar o desempenho dos modelos preditivos, conforme orientações metodológicas comuns na literatura de ciência de dados (SOUZA, 2023). 
+
+Com os dados estruturados, serão desenvolvidos modelos de previsão com base em técnicas de aprendizado supervisionado. A seleção dos modelos mais adequados será guiada por critérios de desempenho e capacidade de generalização. Segundo Dantas et al. (2020), compreender os padrões de consumo em mercados como o de chocolates — altamente influenciado por sazonalidade e preferências regionais — é fundamental para garantir uma operação comercial eficiente. 
+
+A avaliação dos modelos será realizada com base em métricas amplamente utilizadas, garantindo confiabilidade na interpretação dos resultados. Além disso, serão elaboradas visualizações que representem os principais padrões e insights descobertos, permitindo que os dados se transformem em valor estratégico para as empresas do setor. 
+
+Toda a solução será documentada e publicada em repositório digital aberto, promovendo transparência, reprodutibilidade e acesso à metodologia desenvolvida, como incentivado por boas práticas em projetos de IA (LOPES et al., 2023). 
+
+Com a aplicação dessa metodologia, espera-se obter um sistema preditivo eficaz, capaz de oferecer suporte prático à gestão comercial do mercado de chocolates. Os modelos desenvolvidos deverão antecipar variações de demanda, identificar padrões relevantes de consumo e apoiar decisões com mais precisão — principalmente em períodos de maior movimentação, como datas comemorativas. 
+
+A aplicação de soluções baseadas em Inteligência Artificial pode proporcionar ganhos operacionais consideráveis, como a melhoria na previsão de vendas, otimização de estoques e redução de perdas por excesso ou falta de produtos. Isso está em consonância com estudos que apontam a IA como uma ferramenta estratégica para negócios que buscam eficiência e competitividade (MIT TECHNOLOGY REVIEW, 2024). 
+
+Além disso, espera-se que os resultados contribuam para o fortalecimento da cultura organizacional orientada por dados, tornando o processo de tomada de decisão mais confiável e baseado em evidências. Como destacam Lopes et al. (2023), a adoção responsável de tecnologias inteligentes pode impulsionar a inovação sem comprometer princípios éticos e humanos. 
+
+Assim, o projeto busca não apenas apresentar uma solução técnica robusta, mas também estimular o uso consciente e estratégico da Inteligência Artificial no contexto empresarial. 
 
 
 ## Referências Bibliográfica
