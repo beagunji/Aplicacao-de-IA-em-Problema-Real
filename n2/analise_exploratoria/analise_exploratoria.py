@@ -6,7 +6,7 @@ from datetime import datetime
 import os
 
 # Verificar se o arquivo existe
-file_path = 'chocolate_sales.csv'
+file_path = 'n2/analise_exploratoria/chocolate_sales.csv'
 if not os.path.exists(file_path):
     print(f"ERRO: O arquivo {file_path} não foi encontrado no diretório atual.")
     print(f"Diretório atual: {os.getcwd()}")
