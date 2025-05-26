@@ -386,9 +386,9 @@ else:
             print(f"- De {df[main_date].min().strftime('%d/%m/%Y')} a {df[main_date].max().strftime('%d/%m/%Y')}")
             print(f"- Duração: {(df[main_date].max() - df[main_date].min()).days} dias")
         
-        print("\nArquivos gerados:")
+        print("\nArquivo gerado:")
         print("1. chocolate_sales_prepared.csv - Dataset preparado para modelagem")
-        print("2. Gráficos salvos na pasta atual")
+        
 
     except Exception as e:
         print(f"Erro ao processar o dataset: {e}")
